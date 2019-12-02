@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">HomeoDocs</string>
+    <string name="welcome">Welcome</string>
+    <string name="email">EMAIL</string>
+    <string name="todo">TODO</string>
+    <string name="password">PASSWORD</string>
+    <string name="log_in">log in</string>
+    <string name="forgot_password">Forgot password ?</string>
+    <string name="do_not_have_a_account_register">Do not have a Account ? REGISTER</string>
+    <string name="sign_up">SIGN UP</string>
+    <string name="already_having_an_account_log_in">Already having an account? LOG IN</string>
+    <string name="verify_otp">VERIFY OTP</string>
+    <string name="phone_no">PHONE NO.</string>
+    <string name="welcome_to_home_page">Welcome to home page</string>
+    <string name="logout">LOGOUT</string>
+</resources>

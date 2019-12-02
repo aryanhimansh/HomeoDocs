@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "884426281698",
+    "firebase_url": "https://homeodocs-83dae.firebaseio.com",
+    "project_id": "homeodocs-83dae",
+    "storage_bucket": "homeodocs-83dae.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:884426281698:android:b5c4a3d2e354eb495cc4bb",
+        "android_client_info": {
+          "package_name": "com.homeo.homeodocs"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "884426281698-g87nscntcs4p3nfsdk8104chnfb28oia.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.homeo.homeodocs",
+            "certificate_hash": "e4fa720462d22f0d889cbf73d20db4440ff49aeb"
+          }
+        },
+        {
+          "client_id": "884426281698-q088ian0d5m5lme8vftlpdubiavbgudg.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCWB2vutTFBpOb3oy-K-LAnSUrwnakyn4Y"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "884426281698-q088ian0d5m5lme8vftlpdubiavbgudg.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
